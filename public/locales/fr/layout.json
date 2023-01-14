@@ -1,0 +1,12 @@
+{
+  "dashboard": "Tableau de bord",
+  "store": "Boutique",
+  "order": "Commande",
+  "analytic": "Statistique",
+  "marketing": "Marketing",
+  "gestion": "Gestion",
+  "finance": "Finance",
+  "user": "Utilisateur",
+  "customer": "Client",
+  "setting": "Paramètre"
+}
