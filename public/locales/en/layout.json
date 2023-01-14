@@ -1,0 +1,9 @@
+{
+  "dashboard": "Dashboard",
+  "store": "Shop",
+  "users": "Users",
+  "produit": "Product",
+  "transaction": "Transaction",
+  "commande": "Order",
+  "rapport": "Reporting"
+}
