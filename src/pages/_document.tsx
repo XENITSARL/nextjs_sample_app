@@ -1,5 +1,5 @@
 import Document, { Html, Head, Main, NextScript, DocumentContext } from "next/document";
-import { getInitialProps } from "react-i18next";
+// import { getInitialProps } from "react-i18next";
 import i18nextConfig from '../../next-i18next.config'
 
 
